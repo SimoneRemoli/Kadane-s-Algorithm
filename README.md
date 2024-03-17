@@ -4,7 +4,7 @@
 Kadane's algorithm is a dynamic programming approach used to solve the maximum subarray problem, which involves finding the contiguous subarray with the maximum sum in an array of numbers. The algorithm was proposed by Jay Kadane in 1984 and has a time complexity of O(n).
 
 <h1 align="center">
-  Working of Kadene's Algorithm :eye_speech_bubble:
+  Working of Kadane's Algorithm :eye_speech_bubble:
 </h1>
 Kadane's algorithm is widely used in computer science and has become a classic example of dynamic programming. Its simplicity, efficiency, and elegance have made it a popular solution to the maximum subarray problem and a valuable tool in algorithm design and analysis.
 <h3 align="center">
@@ -12,3 +12,5 @@ The algorithm works by iterating over the array and keeping track of the maximum
 We maintain two variables, max_so_far and max_ending_here, to keep track of the maximum sum seen so far and the maximum sum ending at the current position, respectively. The algorithm starts by setting both variables to the first element of the array. Then, we iterate over the array from the second element to the end.
 At each position i, we update max_ending_here by taking the maximum of the current element and the current element added to the previous maximum subarray. We then update max_so_far to be the maximum of max_so_far and max_ending_here.
 </h3>
+
+<img width="994" alt="Screenshot 2024-03-17 alle 17 27 28" src="https://github.com/SimoneRemoli/Kadane-s-Algorithm/assets/118252611/78c71c5a-c58d-4f7b-a1b7-fec3b345053f">
