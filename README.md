@@ -20,3 +20,9 @@ At each position i, we update max_ending_here by taking the maximum of the curre
 <img width="705" alt="Screenshot 2024-03-17 alle 17 30 54" src="https://github.com/SimoneRemoli/Kadane-s-Algorithm/assets/118252611/521373b6-4d4c-4e4d-8963-67e973f6f118">
 
 
+<h1 align="center">
+  Example 2 :eye_speech_bubble:
+</h1>
+<img width="1337" alt="Screenshot 2024-03-17 alle 17 32 49" src="https://github.com/SimoneRemoli/Kadane-s-Algorithm/assets/118252611/9a2da75d-e038-4546-8dbe-d795c7acfb06">
+
+
