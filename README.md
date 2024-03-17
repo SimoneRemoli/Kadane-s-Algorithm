@@ -14,3 +14,9 @@ At each position i, we update max_ending_here by taking the maximum of the curre
 </h3>
 
 <img width="994" alt="Screenshot 2024-03-17 alle 17 27 28" src="https://github.com/SimoneRemoli/Kadane-s-Algorithm/assets/118252611/78c71c5a-c58d-4f7b-a1b7-fec3b345053f">
+<img width="998" alt="Screenshot 2024-03-17 alle 17 28 48" src="https://github.com/SimoneRemoli/Kadane-s-Algorithm/assets/118252611/16cba4ca-161f-4582-ae48-765d01b93926">
+<img width="1197" alt="Screenshot 2024-03-17 alle 17 29 17" src="https://github.com/SimoneRemoli/Kadane-s-Algorithm/assets/118252611/6cd2da26-ddfd-48c4-a963-6f05b4d8b9f3">
+<img width="1020" alt="Screenshot 2024-03-17 alle 17 30 14" src="https://github.com/SimoneRemoli/Kadane-s-Algorithm/assets/118252611/1f586760-21b9-47aa-aabc-f932a0483887">
+<img width="705" alt="Screenshot 2024-03-17 alle 17 30 54" src="https://github.com/SimoneRemoli/Kadane-s-Algorithm/assets/118252611/521373b6-4d4c-4e4d-8963-67e973f6f118">
+
+
